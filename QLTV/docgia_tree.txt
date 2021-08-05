@@ -1,0 +1,18 @@
+512|Scarlett|Johansson|Nu|1|2
+JUJJ|1|5/8/2021|-1/-1/-1|0
+QWER|1|5/8/2021|-1/-1/-1|0
+768|Tom|Hiddleson|Nam|1|0
+256|Anne|Hathaway|Nu|1|0
+896|Luke|Evans|Nam|0|0
+640|Kristen|Stewart|Nu|1|0
+384|Rebecca|Ferguson|Nu|0|0
+128|Nina|Dobrev|Nu|1|0
+192|Eva|Green|Nu|0|0
+448|Robert|Pattinson|Nam|1|0
+320|Jake|Gyllenhaal|Nam|0|0
+832|Timothee|Chalamet|Nam|1|0
+64|Vanessa|Kirby|Nu|1|0
+960|Leo|Messi|Nam|1|0
+704|Gal|Gadot|Nu|1|0
+576|Park|Jiyeon|Nu|1|0
+48|Vu|Ngoc Linh|Nam|-1|0
